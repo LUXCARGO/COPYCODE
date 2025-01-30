@@ -1,0 +1,2 @@
+# COPYCODE
+For copying codes
